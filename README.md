@@ -1,6 +1,7 @@
 # create_actor
 
-**Requirements** Windows
+**Requirements** 
+Now it is for Windows only. To adapt it to linux, we need to change Loopback adapter to 'lo'
 
 1.Python 3.7
 
