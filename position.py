@@ -67,7 +67,7 @@ def encodeFraction( x ,d):  # to 3 places eg. 0.bba
         b = a % 1;
         z =encodeFraction( b, d-1 );
         z.insert(0,y);
-        return y2;
+        return y;
         
 def encode_coordinate( x ):
     #162.444 ----> returns [ 127 45 25 255] as needed in wireshark
