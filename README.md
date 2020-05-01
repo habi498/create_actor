@@ -1,5 +1,7 @@
 # create_actor
 
+-----------------------------------------------------------------------------------------------
+
 **Requirements** 
 
 Now works in Windows and linux
@@ -10,6 +12,7 @@ Now works in Windows and linux
 
 3.Npcap Loopback Adapter https://nmap.org/npcap/ (for **Windows**)
 
+-------------------------------------------------------------------------------------------------
 
 **Linux**
 
@@ -27,6 +30,7 @@ Download and install python 3.8.2 https://www.python.org/downloads/
 
 Install scapy by following instruction on https://scapy.readthedocs.io/en/latest/installation.html#windows. Note we already installed python.
 
+--------------------------------------------------------------------------------------------------------------------
 
 **Instructions for running the program both Windows and Linux**
 
