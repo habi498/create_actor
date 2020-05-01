@@ -48,8 +48,15 @@ interface='lo' #we found this in step 3
 conf.L3socket=L3RawSocket
 ```
 2.Open command prompt navigate to the directory using cd and type
-python main.py 
-and enter. The socket server, which sends packets will start running
+`python main.py 
+`
+and enter. 
+
+Sometimes **linux**, it might by 
+
+`python3 main.py
+`
+The socket server, which sends packets will start running
 
 3.Now go to your server. I think you must use ysc3839's cmdinput plugin.
 
