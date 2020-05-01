@@ -8,7 +8,7 @@ Now works in Windows and linux
 
 2.scapy https://github.com/secdev/scapy
 
-3.Npcap Loopback Adapter https://nmap.org/npcap/
+3.Npcap Loopback Adapter https://nmap.org/npcap/ (for Windows)
 
 **Linux**
 
