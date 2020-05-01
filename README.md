@@ -63,8 +63,8 @@ The socket server, which sends packets will start running
 
 Now go to server console( yeah vcmp ) and type
 
-`dofile("scripts\actor.nut");
-
+```ruby
+dofile("scripts\actor.nut");
 execute("create_actor 116 lance -661.12 756.365 11.0966 0")
-`
+```
 your first actor is created!
