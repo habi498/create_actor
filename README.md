@@ -8,7 +8,7 @@ Now works in Windows and linux
 
 2.scapy https://github.com/secdev/scapy
 
-3.Npcap Loopback Adapter https://nmap.org/npcap/ (for Windows)
+3.Npcap Loopback Adapter https://nmap.org/npcap/ (for **Windows**)
 
 **Linux**
 
@@ -25,6 +25,7 @@ and find the interface with name "LOOPBACK"
 Download and install python 3.8.2 https://www.python.org/downloads/
 
 Install scapy by following instruction on https://scapy.readthedocs.io/en/latest/installation.html#windows. Note we already installed python.
+
 
 **Instructions for running the program both Windows and Linux**
 
