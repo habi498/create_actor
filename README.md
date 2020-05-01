@@ -37,7 +37,7 @@ Install scapy by following instruction on https://scapy.readthedocs.io/en/latest
 	third.pcap  (pcap file),
 	actor.nut (you know where to place this).
 	
-If you are using linux, edit main.py and go to line 13. Comment out line 12. Uncomment line 13 and 14. So it looks like
+If you are using linux, edit main.py and go to line 13. Comment out line 12. Uncomment line 13 and line 14. So it looks like
 
 interface='lo' #we found this in step 3
 
