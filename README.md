@@ -53,13 +53,13 @@ python main.py
 ```
 and enter. 
 
-Sometimes **linux**, it might be
+Sometimes in **linux**, it might be
 ```ruby
 python3 main.py
 ```
 The socket server, which sends packets will start running
 
-3.Now go to your server. I think you must use ysc3839's cmdinput plugin.
+3. Now go to your server. I think you must use ysc3839's cmdinput plugin.
 
 Now go to server console( yeah vcmp ) and type
 
